@@ -1,0 +1,15 @@
+Javascript execution Context
+1) global execution context(EC)  ..this ke andar allocate kiya jata h
+   browser ka global context alag hota h ,nodeJs ka alag hota h
+
+//JS ek single threaded language h
+
+2)function EC
+3)Eval EC
+
+//execution kaise hota hota
+phase 1:global execution ..this main allocate hota hota
+phase 2: Memory creation ...sare variable ko rakha jata h
+
+//6:14
+
